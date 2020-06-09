@@ -1,0 +1,10 @@
+{
+    "name": "Testing",
+    "blocks": {
+        "/blockchain/harmony": true,
+        "/blockchain/harmony/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
